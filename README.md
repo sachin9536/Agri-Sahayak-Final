@@ -1,6 +1,5 @@
 # Agri-Sahayak: Bridging the Digital Divide with a Voice-First AI Companion
 
-![Agri-Sahayak Banner](https://via.placeholder.com/800x200/4CAF50/FFFFFF?text=Agri-Sahayak+%7C+AI+Agricultural+Assistant)
 
 Agri-Sahayak is a hyper-local, multi-modal AI assistant designed to bridge the critical information gap for Indian farmers, empowering them with accessible, proactive, and trustworthy advice.
 
