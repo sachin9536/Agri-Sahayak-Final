@@ -76,7 +76,7 @@ OPENWEATHER_API_KEY="your_openweathermap_api_key"
 DATA_GOV_API_KEY="your_data_gov_api_key"
 ```
 
-### 5. Data Ingestion (Crucial Step)
+### 5. Data Ingestion (Crucial Step)(you cna skip this step as we have already made faiss_index per state and saved them in backend/faiss_index)
 
 1. Create an `agri_knowledge_base/` directory in the project root
 2. Place your curated PDF documents into state-specific subfolders within the `agri_knowledge_base/` directory:
