@@ -1,9 +1,8 @@
 # Agri-Sahayak: Bridging the Digital Divide with a Voice-First AI Companion
 
-
 Agri-Sahayak is a hyper-local, multi-modal AI assistant designed to bridge the critical information gap for Indian farmers, empowering them with accessible, proactive, and trustworthy advice.
 
-## 🚀 Key Features
+## 🚀 Key Features in Agri-Sahayak
 
 - **Multi-Modal Access**: A modern React web dashboard for smartphone users and a fully-featured IVR Voice Call system (via Twilio) for any farmer with a basic mobile phone.
 - **Hyper-Local Intelligence**: Delivers state-specific advice using a Retrieval-Augmented Generation (RAG) model on curated knowledge bases.
